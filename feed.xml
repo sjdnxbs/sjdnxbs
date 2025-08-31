@@ -3,12 +3,33 @@
     <title>sjdnxbs</title>
     <link href="https://sjdnxbs.github.io/sjdnxbs/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io/sjdnxbs" />
-    <updated>2025-08-31T18:54:50+08:00</updated>
+    <updated>2025-08-31T19:03:37+08:00</updated>
     <author>
         <name>axg</name>
     </author>
     <id>https://sjdnxbs.github.io/sjdnxbs</id>
 
+    <entry>
+        <title>2025</title>
+        <author>
+            <name>axg</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/sjdnxbs/2025.html"/>
+        <id>https://sjdnxbs.github.io/sjdnxbs/2025.html</id>
+            <category term="文档"/>
+
+        <updated>2025-08-31T19:03:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                    2025.08.31
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2025.08.31</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2025.08.31</title>
         <author>
