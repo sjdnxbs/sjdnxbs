@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sjdnxbs",
+    "description": "",
+    "home_page_url": "https://sjdnxbs.github.io/sjdnxbs",
+    "feed_url": "https://sjdnxbs.github.io/sjdnxbs/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "axg"
+    },
+    "items": [
+        {
+            "id": "https://sjdnxbs.github.io/sjdnxbs/20250831.html",
+            "url": "https://sjdnxbs.github.io/sjdnxbs/20250831.html",
+            "title": "2025.08.31",
+            "summary": "手机电脑小帮手",
+            "content_html": "<p>手机电脑小帮手</p>",
+            "image": "https://sjdnxbs.github.io/sjdnxbs/media/posts/1/kling_20250807_Tu-Sheng-Tu_Yi-Fu-Kua-Zhang-Hua-Ji-De-Ren-Wu-Ze-Qia_5077_0.png",
+            "author": {
+                "name": "axg"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-31T18:54:50+08:00",
+            "date_modified": "2025-08-31T18:54:50+08:00"
+        }
+    ]
+}

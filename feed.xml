@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>sjdnxbs</title>
+    <link href="https://sjdnxbs.github.io/sjdnxbs/feed.xml" rel="self" />
+    <link href="https://sjdnxbs.github.io/sjdnxbs" />
+    <updated>2025-08-31T18:54:50+08:00</updated>
+    <author>
+        <name>axg</name>
+    </author>
+    <id>https://sjdnxbs.github.io/sjdnxbs</id>
+
+    <entry>
+        <title>2025.08.31</title>
+        <author>
+            <name>axg</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/sjdnxbs/20250831.html"/>
+        <id>https://sjdnxbs.github.io/sjdnxbs/20250831.html</id>
+        <media:content url="https://sjdnxbs.github.io/sjdnxbs/media/posts/1/kling_20250807_Tu-Sheng-Tu_Yi-Fu-Kua-Zhang-Hua-Ji-De-Ren-Wu-Ze-Qia_5077_0.png" medium="image" />
+
+        <updated>2025-08-31T18:54:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sjdnxbs.github.io/sjdnxbs/media/posts/1/kling_20250807_Tu-Sheng-Tu_Yi-Fu-Kua-Zhang-Hua-Ji-De-Ren-Wu-Ze-Qia_5077_0.png" alt="" />
+                    手机电脑小帮手
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sjdnxbs.github.io/sjdnxbs/media/posts/1/kling_20250807_Tu-Sheng-Tu_Yi-Fu-Kua-Zhang-Hua-Ji-De-Ren-Wu-Ze-Qia_5077_0.png" class="type:primaryImage" alt="" /></p>
+                <p>手机电脑小帮手</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
